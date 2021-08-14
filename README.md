@@ -36,3 +36,7 @@ brew install parallel && \
 brew install tree
 
 ```
+
+## Debugging Tool
+
+ [Telepresence](https://www.telepresence.io/reference/install)
