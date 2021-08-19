@@ -23,6 +23,9 @@ parallel is another linux utility for Mac that let's you run Bash commands in pa
 
 tree it's the one from Linux.
 
+K9s - Kubernetes CLI To Manage Your Clusters In Style!
+
+
 ```
 brew install kubernetes-cli && \
 brew install helm && \
@@ -34,9 +37,10 @@ brew install kube-ps1 && \
 brew install watch && \
 brew install parallel && \
 brew install tree
-
+brew install k9s
 ```
 
 ## Debugging Tool
 
  [Telepresence](https://www.telepresence.io/reference/install)
+ 
